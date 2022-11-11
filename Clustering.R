@@ -253,6 +253,9 @@ pheatmap(mat = df2,scale = "row",
          )
 #de costado el dendograma es por casos y de arriba es el dendograma por variables. prestar mucha atencion en el informe de las
 #diferencias entre los grupos.
+
+
+
 pheatmap(mat = df2, 
          scale = "row", 
          clustering_distance_rows = "manhattan", 
